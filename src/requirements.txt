@@ -3,4 +3,4 @@ smolagents
 requests
 beautifulsoup4
 pandas
-gradio>=4.0.0
+gradio>=4.44.0
